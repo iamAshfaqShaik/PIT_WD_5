@@ -39,7 +39,7 @@ Click "Refresh" to update the weather information or "Search" to find a new loca
 
 Demo
 
-For a live demo of the weather site, visit: Weather Forecasting Site (https://github.com/iamAshfaqShaik/PIT_WD_5/pd3/)
+For a live demo of the weather site, visit: Weather Forecasting Site (https://iamashfaqshaik.github.io/PIT_WD_5/pd3/)
 
 Author :
 
